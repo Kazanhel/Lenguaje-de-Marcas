@@ -1,4 +1,4 @@
-# Lenguaje-de-Marcas
+# Lenguaje de Marcas
 ## Ejercicios de Lenguaje de Marcas ##
 En el presente directorio van a ir subiendo los **ejercicios** que hagamos en la asignatura de **Lenguaje de Marcas** a lo largo del curso.
 
